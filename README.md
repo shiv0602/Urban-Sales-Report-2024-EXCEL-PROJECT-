@@ -1,4 +1,4 @@
-# Vrinda-Sales-Report-2024
+# Urban-Sales-Report-2024
 Objective :- 
 Urban store wants to create an annual sales report for 
 2024 so that Urban can understand their customer and
